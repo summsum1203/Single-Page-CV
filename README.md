@@ -1,5 +1,5 @@
 # Single-Page-CV
-single page CV (Curriculum Vitae) using HTML: requirements Semantic HTML,  SEO Met Tags, Open Graph (OG) Tags, Favicon, 
+single page CV (Curriculum Vitae) using HTML: Semantic HTML,  SEO Met Tags, Open Graph (OG) Tags, Favicon, 
 # Single-Page CV Project
 
 This project is part of [roadmap.sh](https://roadmap.sh/projects/single-page-cv).  
