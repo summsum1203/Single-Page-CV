@@ -6,3 +6,5 @@ dist/
 *.tmp
 *.swp
 *.bak
+.env
+.env.*
